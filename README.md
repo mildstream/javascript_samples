@@ -1,2 +1,3 @@
 # javascript_samples
-Javascript code examples.
+
+Javascript code examples. Open index.html.
