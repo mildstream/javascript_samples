@@ -1,0 +1,47 @@
+div#div1 {
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+div#div1:hover {
+    background-color: hsl(60, 56%, 61%);
+    cursor: pointer;
+}
+
+div#div2 {
+    background-color: hsl(180, 100%, 97%);
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+div#div2:hover {
+    background-color: hsl(180, 100%, 77%);
+    cursor: pointer;
+}
+
+div#div3 {
+    background-color: hsl(180, 62%, 44%);
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+div#div3:hover {
+    background-color: hsl(180, 71%, 23%);
+    cursor: pointer;
+}
